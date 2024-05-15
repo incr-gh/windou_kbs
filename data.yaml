@@ -1,0 +1,6 @@
+train: ../train/images
+test: ../test/images
+val: ../valid/images
+
+nc: 12
+names: ['Plastic', 'Paper', 'Glass', 'Metal', 'Lid', 'Styrofoam piece', 'Shoe', 'Cup', 'Carton', 'Battery', 'Can', 'Bottle']
